@@ -1,0 +1,26 @@
+# Compiled Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Calibration data — machine-specific, re-generate per setup
+T_cam_to_arm_topdown.npy
+board_calibration.npy
+empty_board.png
+
+# Editor / IDE
+.vscode/
+.idea/
+*.code-workspace
+.claude/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs / screenshots
+*.png
+*.jpg
+
+# depthai device cache and crash dumps
+.cache/
