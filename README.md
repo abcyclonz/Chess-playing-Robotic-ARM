@@ -249,4 +249,4 @@ Regenerate them after any hardware repositioning.
 - [x] Board corners saved
 - [x] Visual-servo pick/place — working, gripper offset tuned
 - [x] Blue piece move detection — HSV hue tracking, AE-immune
-- [ ] Full game end-to-end test
+- [x] Full game end-to-end — Stockfish vs human, working
